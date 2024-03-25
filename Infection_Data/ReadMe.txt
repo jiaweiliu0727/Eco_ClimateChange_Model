@@ -1,7 +1,7 @@
 This folder includes the observation and experimental infection data we collected in Michigan.
 
 2010-2012 raw data collected by Colin Kyle at the lower peninsula of Michigan is stored in the txt files. The ones start with "data" are epizootic data, and the ones start with "expdata" are experimental data.
-The numbers in the file names indicate study sites. Site 1-8 are South 2010, Central 2010, North 2010, Central 2011, Central 2012, North 2012, South 2011 and North 2011 respectively. Site 8 is excluded here and in Kyle et al. (2020) because of no fungus detected.
+The numbers in the file names indicate study sites. Site 1-8 are South 2010, Central 2010, North 2010, Central 2011, Central 2012, North 2012, South 2011 and North 2011 respectively. Site 8 was excluded in Kyle et al. (2020) because of no fungus detected, but we include this site in this work when we compare the fraction infected by fungus and virus in 2010-2012 and 2021/2023 (at the end of SI).
 Format of datax.txt: Columns represent number of susceptible (uninfected) hosts, number of virus-infected hosts, number of fungus-infected hosts, week id and day id respectively.
 Format of expdatax.txt: Columns represent number of susceptible (uninfected) hosts, number of fungus-infected hosts, week id, experiment condition (0 for uncovered cages and 1 for covered cages) and day id respectively.
 feraldataALL2.csv: a summary table made by Colin Kyle for the epizootic data. Columns represent site, week, number of susceptible (uninfected) hosts, number of virus-infected hosts, number of fungus-infected hosts, fraction of susceptible hosts (excluding virus infected ones), fraction of fungus-infected hosts (excluding virus infected ones), and fraction of virus-infected hosts (including all hosts).
