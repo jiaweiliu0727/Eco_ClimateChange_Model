@@ -1,0 +1,8 @@
+Location,Date,Virus_Inf,Fungus_Inf,Both_Inf,total_insects,Frac_V_Inf,Frac_F_Inf,Frac_Both_Inf
+Nameless,6.13.23,51,0,0,100,0.51,0,0
+Nameless,6.19.23,45,0,0,100,0.45,0,0
+Nameless,6.26.23,61,0,0,100,0.61,0,0
+PCCI,6.19.23,5,0,0,100,0.05,0,0
+LCL,6.19.23,10,0,0,100,0.1,0,0
+Otis Lk Rd,6.19.23,41,0,0,100,0.41,0,0
+Otis Lk Rd,6.26.23,70,0,0,100,0.7,0,0
